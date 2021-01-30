@@ -4,6 +4,11 @@ Mongo Knowledge Base Application
 This application is aimed at being a knowledge base for Mongo Database Issues and Errors faced by the Mongo Community.
 This will have detailed description / resolution for the issue.
 
+Atlas Cluster : 
+"mongodb+srv://cluster0.kq16b.mongodb.net/"
+Database : monk_db
+Collection: articles
+
 For a query:
 
 How to Install MongoDB on Unix?
