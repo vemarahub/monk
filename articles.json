@@ -1,0 +1,5 @@
+db.articles.insert({"title":"How to install MongoDB on Unix","url":"how-to-install-mongodb-on-unix","article":0000100,"env":{"product":"mongodb","version":["3.x","4.x"],"os":"Unix"},
+"description":"How to Install MongoDB on Unix","reproduce":"N/A","clarify":"N/A","error":"N/A","defect_no":"N/A","cause":"N/A",
+"resolution":"For prerequisites and installation procedure for installation of Mongo on UNIX please see the following sections of the online documentation For Installing Community Edition follow https://docs.mongodb.com/manual/administration/install-on-linux/			
+			 For Installing Enterprise / Liscenced Edition follow https://docs.mongodb.com/manual/administration/install-enterprise-linux/","workaround":"N/A","notes":"N/A","last_modified":ISODate("2021-01-29T03:57:15Z"),"attachments":"N/A"})
+	

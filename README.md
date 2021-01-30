@@ -35,8 +35,10 @@ Defect/Enhancement Number : N/A
 Cause : 
 
 Resolution : For prerequisites and installation procedure for installation of Mongo on UNIX please see the following sections of the online documentation:
+
 			 For Installing Community Edition follow:
 				https://docs.mongodb.com/manual/administration/install-on-linux/
+				
 			 For Installing Enterprise / Liscenced Edition follow:
 				https://docs.mongodb.com/manual/administration/install-enterprise-linux/
 
